@@ -18,35 +18,18 @@
 - gatawu mau nulis apa xixi:3
 - hii, aku nadchan.
 </code></pre>
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=f9e0ea" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=f9e0ea" alt="JavaScript">
   <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=f9e0ea" alt="Node.js">
+  <br>
 </p>
-
   </tr>
 </table>
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img src="assets/cloud_divider.jpg"
-           style="width:80px;height:45px;object-fit:cover;object-position:0% 50%;display:block;"
-           alt="cloud left">
-    </td>
-    <td align="center">
-      <img src="assets/cloud_divider.jpg"
-           style="width:80px;height:45px;object-fit:cover;object-position:50% 50%;display:block;"
-           alt="cloud center">
-    </td>
-    <td align="right">
-      <img src="assets/cloud_divider.jpg"
-           style="width:80px;height:45px;object-fit:cover;object-position:100% 50%;display:block;"
-           alt="cloud right">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/cloud_divider.jpg" width="200" alt="cloud divider">
+</p>
 
 <h2 align="center"> 🇨‌🇴‌🇳‌🇹‌🇦‌🇨‌🇹‌ 🇲‌🇪‌ </h2>
 
@@ -74,25 +57,9 @@
   </tr>
 </table>
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img src="assets/cloud_divider.jpg"
-           style="width:80px;height:45px;object-fit:cover;object-position:0% 50%;display:block;"
-           alt="cloud left">
-    </td>
-    <td align="center">
-      <img src="assets/cloud_divider.jpg"
-           style="width:80px;height:45px;object-fit:cover;object-position:50% 50%;display:block;"
-           alt="cloud center">
-    </td>
-    <td align="right">
-      <img src="assets/cloud_divider.jpg"
-           style="width:80px;height:45px;object-fit:cover;object-position:100% 50%;display:block;"
-           alt="cloud right">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/cloud_divider.jpg" width="200" alt="cloud divider">
+</p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
