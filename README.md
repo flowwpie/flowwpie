@@ -18,11 +18,13 @@
 - gatawu mau nulis apa xixi:3
 - hii, aku nadchan.
 </code></pre>
+
+    </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="assets/cloud_divider.jpg" style="max-width: 45%;" alt="cloud divider">
+  <img src="assets/cloud_divider.jpg" width="420" alt="cloud divider">
 </p>
 
 <h2 align="center"> 🇨‌🇴‌🇳‌🇹‌🇦‌🇨‌🇹‌ 🇲‌🇪‌ </h2>
@@ -48,11 +50,12 @@
   </a>
 </p>
 
+    </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="assets/cloud_divider.jpg" style="max-width: 45%;" alt="cloud divider">
+  <img src="assets/cloud_divider.jpg" width="420" alt="cloud divider">
 </p>
 
 <!--START_SECTION:waka-->
