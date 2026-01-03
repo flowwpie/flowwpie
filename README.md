@@ -27,9 +27,19 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="assets/cloud_divider.jpg" width="200" alt="cloud divider">
-</p>
+<div align="center">
+  <div style="display:flex; justify-content:space-between; width:360px; max-width:90%; margin:0 auto;">
+    <img src="assets/cloud_divider.jpg"
+         style="width:80px;height:45px;object-fit:cover;object-position:0% 50%;display:block;"
+         alt="cloud left">
+    <img src="assets/cloud_divider.jpg"
+         style="width:80px;height:45px;object-fit:cover;object-position:50% 50%;display:block;"
+         alt="cloud center">
+    <img src="assets/cloud_divider.jpg"
+         style="width:80px;height:45px;object-fit:cover;object-position:100% 50%;display:block;"
+         alt="cloud right">
+  </div>
+</div>
 
 <h2 align="center"> 🇨‌🇴‌🇳‌🇹‌🇦‌🇨‌🇹‌ 🇲‌🇪‌ </h2>
 
