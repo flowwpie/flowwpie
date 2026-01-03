@@ -18,6 +18,14 @@
 - gatawu mau nulis apa xixi:3
 - hii, aku nadchan.
 </code></pre>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=f9e0ea" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=f9e0ea" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=f9e0ea" alt="Node.js">
+  <br>
+  <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032&labelColor=f9e0ea" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=000000&labelColor=f9e0ea" alt="Linux">
+</p>
   </tr>
 </table>
 
