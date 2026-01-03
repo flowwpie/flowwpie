@@ -46,7 +46,7 @@
 </p>
 
 <p>
-  <a href="mailto:nanatchan@icloud.com">
+  <a href="mailto:@icloud.com">
     <img src="https://img.shields.io/badge/nadchan-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=f9e0ea" alt="Email Badge"/>
   </a>
   <a href="https://discord.com/users/83464111810373224421" target="_blank">
