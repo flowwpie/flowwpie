@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td valign="top" width="35%">
-      <img src="assets/profile_pic.jpg" width="300" alt="profile pic">
+      <img src="assets/profile_pic.jpg" width="500" alt="profile pic">
     </td>
     <td valign="top" width="65%">
 
@@ -18,8 +18,6 @@
 - gatawu mau nulis apa xixi:3
 - hii, aku nadchan.
 </code></pre>
-
-    </td>
   </tr>
 </table>
 
@@ -32,7 +30,7 @@
 <table>
   <tr>
     <td valign="top" width="35%">
-      <img src="assets/contact_pic.jpg" width="300" alt="contact pic">
+      <img src="assets/contact_pic.jpg" width="500" alt="contact pic">
     </td>
     <td valign="top" width="65%">
 
@@ -50,7 +48,6 @@
   </a>
 </p>
 
-    </td>
   </tr>
 </table>
 
