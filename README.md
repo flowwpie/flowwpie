@@ -22,7 +22,7 @@
 </table>
 
 <p align="center">
-  <img src="assets/cloud_divider.png" style="max-width: 100%;" alt="cloud divider">
+  <img src="assets/cloud_divider.jpg" style="max-width: 100%;" alt="cloud divider">
 </p>
 
 <h2 align="center"> 🇨‌🇴‌🇳‌🇹‌🇦‌🇨‌🇹‌ 🇲‌🇪‌ </h2>
@@ -52,7 +52,7 @@
 </table>
 
 <p align="center">
-  <img src="assets/cloud_divider.png" style="max-width: 100%;" alt="cloud divider">
+  <img src="assets/cloud_divider.jpg" style="max-width: 100%;" alt="cloud divider">
 </p>
 
 <!--START_SECTION:waka-->
