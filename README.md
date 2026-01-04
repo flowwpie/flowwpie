@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=f9e0ea" alt="JavaScript">
   <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=f9e0ea" alt="Node.js">
   <br>
-<img src="https://img.shields.io/badge/Rust-ffb6c1?style=for-the-badge&logo=rust&logoColor=000000&labelColor=f9e0ea" alt="Rust">
+<img src="https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=000000&labelColor=f9e0ea" alt="Rust">
 </p>
   </tr>
 </table>
