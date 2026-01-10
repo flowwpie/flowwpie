@@ -32,6 +32,6 @@
   <img src="assets/cloud_divider.jpg" width="200" alt="cloud divider">
 </p>
 
-
+ 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
