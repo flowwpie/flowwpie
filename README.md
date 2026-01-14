@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=efadc9&center=true&vCenter=true&width=450&lines=nadchan%27s+page+%3C3)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=efadc9&center=true&vCenter=true&width=450&lines=nadchan%27s+page+%3C3)](https://git.io/typing-svg)  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=crystalyaw&color=ffd3d9&style=for-the-badge" alt="profile views">
